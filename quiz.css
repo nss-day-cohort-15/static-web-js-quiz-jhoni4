@@ -2,6 +2,8 @@
   background-color: lightgrey;
 }
 #button {
-   background: url(.images/Grow.jpg) 100% no-repeat;
+   background-color: lightgreen;
+   width: 90px;
+   height: 30px;
 
 }
